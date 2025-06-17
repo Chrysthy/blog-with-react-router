@@ -30,3 +30,13 @@ This project was built to practice the implementation of **routes in React** usi
 It includes navigation between pages, route parameters, dynamic rendering based on the URL, and handling JSON data fetching.
 
 <br>
+
+## 🛠 Technologies
+
+- React
+- React Router DOM
+- JavaScript (ES6+)
+- Node.js (for local JSON server)
+- npm
+
+<br>
