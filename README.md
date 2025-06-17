@@ -1,4 +1,4 @@
-<h1 align="center">React Advanced – Routes Project </h1>
+<h1 align="center">React Advanced – Routes Project 🗺️ </h1>
 
 <p align="center">An initial project created to follow the routes lesson in the React Advanced Module from the DevQuest course.</p>
 
