@@ -40,3 +40,32 @@ It includes navigation between pages, route parameters, dynamic rendering based 
 - npm
 
 <br>
+
+## ⚙ How to Run
+
+### Requirements
+
+- [Node.js](https://nodejs.org/) (version 14 or newer)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Steps
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/SeuUsuario/react-routes-project.git
+   cd react-routes-project
+
+2. **Install dependencies**:
+
+    ```bash
+    npm install
+
+3. **Run the project**:
+
+   ```bash
+   npm start
+
+4. **The project will open automatically at**:
+
+    👉 http://localhost:3000
