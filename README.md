@@ -69,3 +69,9 @@ It includes navigation between pages, route parameters, dynamic rendering based 
 4. **The project will open automatically at**:
 
     👉 http://localhost:3000
+
+
+<br>
+
+## 🫱🏻‍🫲🏻 Contributing
+<p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
