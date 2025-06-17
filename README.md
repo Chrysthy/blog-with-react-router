@@ -22,3 +22,11 @@
 <img src=".github/project-screenshot.png" alt="Project Screenshot">
 
 <br>
+
+## 🧭 Objective
+
+This project was built to practice the implementation of **routes in React** using React Router, as part of the **React Advanced Module** from **DevQuest**.
+
+It includes navigation between pages, route parameters, dynamic rendering based on the URL, and handling JSON data fetching.
+
+<br>
